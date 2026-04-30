@@ -1,0 +1,1 @@
+[{"type":"line","data":{"key":"chunky","points":[{"x":4095,"z":-2045},{"x":-4095,"z":-2045},{"x":-4095,"z":2045},{"x":4095,"z":2045},{"x":4095,"z":-2045}]},"options":{"stroke":{"color":-65536},"fill":{"enabled":false},"tooltip":{"content":"World Border","sticky":true}}}]
